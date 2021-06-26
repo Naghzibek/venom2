@@ -92,11 +92,11 @@ body {
 }
 .blood {
   background: url("../img/blood.png") no-repeat top right,
-    url("../img/background.jpg") no-repeat center center / 100%;
+    url("../img/background.jpg")  center center / 100%;
 }
 
 .prime-bg {
-  background: url("../img/background.jpg") no-repeat center center / 100%;
+  background: url("../img/background.jpg")  center center / 100%;
 }
 .content {
   display: flex;
